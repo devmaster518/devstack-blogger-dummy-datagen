@@ -1,0 +1,21 @@
+{
+  "name": "devstack-blogger-dummy-datagen",
+  "version": "1.0.0",
+  "description": "CRUD Blog Backend **Dummy Data Generator** in `Angular` v15 and `NestJS` with `MongoDB` and `Google Authentication`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8",
+    "mongoose": "^7.1.0",
+    "node-fetch": "^2.6.9"
+  },
+  "keywords": [
+    "dummy",
+    "data",
+    "generator"
+  ],
+  "author": "devstar518",
+  "license": "MIT"
+}
